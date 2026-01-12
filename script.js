@@ -1,6 +1,6 @@
 // API endpoints
-const API_ENDPOINT = 'https://automation.core.genius365.ai/webhook/form-options';
-const SUBMIT_ENDPOINT = 'https://automation.core.genius365.ai/webhook/5c71a1df-7a00-4660-b22e-d1aa8107a7a2'; // Replace with your submit endpoint
+const API_ENDPOINT = 'https://ri-krootai.app.n8n.cloud/webhook/form-options';
+const SUBMIT_ENDPOINT = 'https://ri-krootai.app.n8n.cloud/webhook/5c71a1df-7a00-4660-b22e-d1aa8107a7a2'; // Replace with your submit endpoint
 
 // Get DOM elements
 const selectField = document.getElementById('selectField');
